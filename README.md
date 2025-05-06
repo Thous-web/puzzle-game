@@ -27,5 +27,6 @@ Before you begin, ensure you have the following installed:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/laravel-word-puzzle-backend.git
+git clone https://github.com/Thous-web/puzzle-game.git
 cd laravel-word-puzzle-backend
+
