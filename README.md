@@ -21,6 +21,13 @@ Before you begin, ensure you have the following installed:
 - Laravel >= 8.2
 - MySQL / MariaDB
 - An API key for word validation (external API)
+- Run migrations php artisan migrate
+- Start local server by executing php artisan serve
+- Visit here http://127.0.0.1:8000/api/start to test the application
+- body 
+    {
+    "student_name": "ihan"
+    }
 
 ## Installation
 
