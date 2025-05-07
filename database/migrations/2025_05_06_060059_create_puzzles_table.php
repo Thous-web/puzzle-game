@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('puzzles', function (Blueprint $table) {
             $table->id();
-            $table->string('letters'); // e.g., dgeftoikbvxuaa
+            $table->string('letters');
             $table->timestamps();
         });
     }
